@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* html,body{padding: 0;} */
+body{
+    padding: 50px 165px;
+}
+.header{
+    /* margin-top: 55px; */
+    display: flex;
+    justify-content: space-between;
+}
+.h2{
+    font-family: barlow;
+    font-weight: 900;
+    font-size: 56px;
+    line-height: 56px;
+    color: #162542;
+}
+.h6{
+    font-family: barlow;
+    font-weight: 500px;
+    font-size: 18px;
+    line-height:26px ;
+    color: #7B8BAD;
+}
+.button{
+    background-color: #FF9B62;
+}
